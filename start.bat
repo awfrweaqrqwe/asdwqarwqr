@@ -1,2 +1,0 @@
-NODE log.js
-pause
